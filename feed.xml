@@ -7,8 +7,8 @@
     <title>跟我一起来谈钱</title>
     <link>https://www.youtube.com/channel/UC5RtC9dKUJ9noJ4C6N4XnmQ/videos</link>
     <language>zh-cn</language>
-    <atom:link href="https://johan456789.github.io/ChattyMoney/feed.xml" rel="self" type="application/rss+xml"/>
     <copyright>PODCAST CREATOR</copyright>
+    <atom:link href="https://johan456789.github.io/ChattyMoney/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:subtitle>PODCAST SUBTITLE</itunes:subtitle>
     <itunes:author>PODCAST CREATOR</itunes:author>
     <itunes:summary>
@@ -20,6 +20,11 @@
     </itunes:summary>
     <itunes:keywords>finance</itunes:keywords>
     <description>
+大家好！我是一名特许金融分析师 （CFA），也是一名美国注册会计师（CPA）。我在纽约生活和工作了十多年，一直从事资产管理相关行业。曾先后在四大会计师事务所和全球 AUM 排名前十的对冲基金以及私募基金担任要职。
+
+开设这个频道，是想用轻松愉快的聊天方式，介绍理财 personal finance，投资 investing，金融 finance，税务 taxes，经济 economics，生活 life，以及一切和钱有关的话题 money related topics。我们生活在一个前所未有的时代：物质极大丰富，你却未必支付得起必需品（比如医疗、养老）；免费信息爆炸，大学教育却变成了奢侈品；美国失业率连创历史新低，薪资却停滞不前；人的寿命不断增长，却导致越来越多的人无法退休；社会学家不断探讨贫富悬殊的命题，财富前1%的人口却持有史无前例的90%社会财富。我们生活的时代，懂理财比以往任何时候都重要；财商低比以往任何一个时代都致命。
+
+感谢朋友们关注我的频道。希望大家能通过了解这些内容，提高财商，共同进步，从容应对和钱有关的人生话题。
     </description>
     <itunes:owner>
       <itunes:name>PODCAST CREATOR</itunes:name>
@@ -35,13 +40,12 @@
       <itunes:subtitle>EPISODE SUBTITLE</itunes:subtitle>
       <itunes:summary><![CDATA[EPISODE DESCRIPTION]]></itunes:summary>
       <description><![CDATA[EPISODE DESCRIPTION]]></description>
-      <itunes:image href="https://OPTIONAL EPISODE IMAGE.jpg"/>
       <enclosure url="https://johan456789.github.io/ChattyMoney/audio/20200917%20-%20%E6%83%B3%E6%B8%85%E6%A5%9A%E8%BF%99%E5%87%A0%E7%82%B9%EF%BC%8C%E4%BD%A0%E4%B8%8D%E6%83%B3%E7%9C%81%E9%92%B1%E9%83%BD%E9%9A%BE%EF%BD%9CPsychology%20of%20saving%20money%20-%20809%20-%205126878.m4a" length="5126878" type="audio/mpeg"/>
       <itunes:duration>809</itunes:duration>
       <itunes:season>SEASON #</itunes:season>
       <itunes:episode>EPISODE #</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
-      <guid isPermaLink="false">https://johan456789.github.io/ChattyMoney/audio/20200917%20-%20%E6%83%B3%E6%B8%85%E6%A5%9A%E8%BF%99%E5%87%A0%E7%82%B9%EF%BC%8C%E4%BD%A0%E4%B8%8D%E6%83%B3%E7%9C%81%E9%92%B1%E9%83%BD%E9%9A%BE%EF%BD%9CPsychology%20of%20saving%20money%20-%20809%20-%205126878.m4a</guid>
+      <guid>https://johan456789.github.io/ChattyMoney/audio/20200917%20-%20%E6%83%B3%E6%B8%85%E6%A5%9A%E8%BF%99%E5%87%A0%E7%82%B9%EF%BC%8C%E4%BD%A0%E4%B8%8D%E6%83%B3%E7%9C%81%E9%92%B1%E9%83%BD%E9%9A%BE%EF%BD%9CPsychology%20of%20saving%20money%20-%20809%20-%205126878.m4a</guid>
       <pubDate>20200917</pubDate>
     </item>
   </channel>
